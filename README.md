@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I'm currently learning ML and neural networks
+
+- 👯 I'm looking to collaborate on Python, Django and data science projects
+- 📫 How to reach me: https://jpacierno.info
+- ⚡ Fun fact: A group of stingrays is called a fever 
+
 <!--
 **juanpabloacierno/juanpabloacierno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

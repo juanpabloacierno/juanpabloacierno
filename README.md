@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently trying to implement some ML models in production
+- 🌱 Currently experimenting with some ML models
 
 - 👯 I'm looking to collaborate on Python, Django and data science projects
 - 📫 How to reach me: https://jpacierno.info
